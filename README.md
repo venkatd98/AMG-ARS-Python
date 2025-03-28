@@ -1,1 +1,1 @@
-# Flight Booking System (Phython)
+# Flight Booking System (Python)
