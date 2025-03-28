@@ -14,5 +14,9 @@ The AMG Ticketing System is a Python-based application designed for managing fli
 - 🐍 Python  
 - 📂 SQLite (for data storage)
 
+## Contributors
+- Venkat Dharshaan
+- Royce Adam Matunjau (Admin Functionality)
+
 ## License
 This project is for educational purposes and does not represent an actual airline system.
