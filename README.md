@@ -1,4 +1,4 @@
-# Air Malaysian Group (AMG) Ticketing System (Python)
+# Air Malaysian Group (AMG) Airline Reservation System (Python)
 
 ## Overview  
 The AMG Ticketing System is a Python-based application designed for managing flight ticket bookings for Air Malaysian Group (AMG). It allows users to book, modify, and cancel tickets efficiently while ensuring data integrity and user-friendly interaction.  
